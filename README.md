@@ -3,7 +3,7 @@
 ### Profiles
 
 <a href="stackoverflow.com/tygzy">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="22px" height="22px"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="32px" height="32px"></img>
 </a>
 
 <!--
