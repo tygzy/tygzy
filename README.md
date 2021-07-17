@@ -6,6 +6,10 @@ https://atom.io/themes/mystique-atom-ui
 
 I'm currently making Mystique theme for Atom, which I will expand out onto **many** other programs and apps in the future!
 
+![Preview image 1](https://i.imgur.com/JMdjKXJ.png)
+
+![Preview image 2](https://i.imgur.com/1Sukz0c.png)
+
 <!--
 **tygzy/tygzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
