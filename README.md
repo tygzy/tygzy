@@ -2,9 +2,10 @@
 
 ### Profiles
 
-<a href="stackoverflow.com/tygzy">
+<a href="https://stackoverflow.com/users/6635590/tygzy">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="32px" height="32px"></img>
 </a>
+<img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="32px" height="32px">Tygzy#8294</img>
 
 <!--
 **tygzy/tygzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
