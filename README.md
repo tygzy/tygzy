@@ -4,7 +4,7 @@
 
 https://atom.io/themes/mystique-atom-ui
 
-I'm currently making Mystique theme for Atom, which I will expand out onto **many** other programs and apps in the future!
+https://github.com/tygzy/astatine
 
 <!--
 **tygzy/tygzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
