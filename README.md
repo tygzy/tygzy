@@ -1,16 +1,17 @@
-### Hi there 👋
+## tygzy
 
-<!--
-**tygzy/tygzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+full stack web developer using python, html, css, js and sqlite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+my website [tyler.contact](https://tyler.contact)
+
+email: [mail@tyler.contact](mailto:mail@tyler.contact)
+
+### silicon
+
+a classless css framework with dynamic light and dark themes.
+
+[silicon-css.com](https://silicon-css.com)
