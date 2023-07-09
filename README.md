@@ -1,13 +1,6 @@
 # hello
 
-full stack web developer using python, html, css, js and sqlite.
+full stack web developer
 
 my website [tyler.contact](https://tyler.contact)
-
-email: [mail@tyler.contact](mailto:mail@tyler.contact)
-
-## silicon
-[silicon-css.com](https://silicon-css.com)
-
-a classless css framework with dynamic light and dark themes.
 
